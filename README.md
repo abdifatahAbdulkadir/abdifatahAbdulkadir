@@ -11,7 +11,7 @@ Looking for Fullstack/ Java development position.
 
 - 🔭 I’m looking for fullstack or java development position.
 - 🤔 I’m currently learning Nodejs and get better on the backend.
-- ⚡ Fun fact: I play games, football and do IoT on the side.
+- ⚡ Fun fact: I play games, football and do IoT staff on the side.
 
 ## Language And Tools:~
 
