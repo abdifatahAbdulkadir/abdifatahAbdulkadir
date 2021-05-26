@@ -5,7 +5,7 @@ Looking for Fullstack/ Java development position.
 ## Reach Me Here ⬇
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdifatah-abdulkadir/) 
-[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:zafex188@hotmail.com)
+[![Mail Badge](https://img.shields.io/badge/-Email-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:apdifata1@gmail.com)
 
 <!-- TODO: Add last video link -->
 
