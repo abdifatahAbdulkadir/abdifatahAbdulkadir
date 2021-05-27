@@ -25,7 +25,9 @@ Looking for Fullstack/ Java development position.
 
 #### Github Stats
 
-![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=abdifatahAbdulkadir&count_private=true&theme=tokyonight&hide=contribs,prs)
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api?username=abdifatahAbdulkadir&count_private=true&show_icons=true&theme=tokyonight)
+
+![Ipenywis's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=abdifatahAbdulkadir&layout=compact&theme=tokyonight)
 
 
 
